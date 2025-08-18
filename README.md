@@ -53,13 +53,13 @@ This project contains the SQL scripts for creating, populating, and retrieving d
     
 *🔹 Technical Stack & SQL Features Used
 
-Database: MySQL (Relational Database).
-Schema Design: Tables with Primary Keys, Foreign Keys, Unique constraints, and relationships (One-to-Many, Many-to-Many via PackageGuides).
-Data Types: INT AUTO_INCREMENT, VARCHAR, TEXT, DECIMAL, DATE, DATETIME, BOOLEAN.
-DDL: CREATE DATABASE, CREATE TABLE, constraints (DEFAULT, FOREIGN KEY).
-DML: INSERT INTO with sample realistic data (customers, destinations, packages, bookings, payments, etc.).
-DQL: SELECT, JOIN, LEFT JOIN, WHERE, GROUP BY, ORDER BY, LIMIT.
-Functions: COUNT(), SUM(), AVG(), MONTH(), CURDATE().
+- Database: MySQL (Relational Database).
+- Schema Design: Tables with Primary Keys, Foreign Keys, Unique constraints, and relationships (One-to-Many, Many-to-Many via PackageGuides).
+- Data Types: INT AUTO_INCREMENT, VARCHAR, TEXT, DECIMAL, DATE, DATETIME, BOOLEAN.
+- DDL: CREATE DATABASE, CREATE TABLE, constraints (DEFAULT, FOREIGN KEY).
+- DML: INSERT INTO with sample realistic data (customers, destinations, packages, bookings, payments, etc.).
+- DQL: SELECT, JOIN, LEFT JOIN, WHERE, GROUP BY, ORDER BY, LIMIT.
+- Functions: COUNT(), SUM(), AVG(), MONTH(), CURDATE().
 
 ## ER Diagram
 
