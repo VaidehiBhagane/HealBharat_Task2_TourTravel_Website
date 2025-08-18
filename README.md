@@ -2,9 +2,7 @@
 
 *Task 2 - Design and Implement a Database for a Tour and Travel Website
 
-# Travel Website Database Project
-
-This project contains the SQL scripts for creating, populating, and retrieving data from a travel website database.
+This contains the SQL scripts for creating, populating, and retrieving data from a travel website database.
 
 ## Files
 
